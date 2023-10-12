@@ -335,7 +335,7 @@ console.log(ajs.info());
 
 Вы присылаете три ссылки:
 1. [Ссылка на репозиторий с вашим пакетом](https://github.com/ZlayaZayaZ/new_package)
-1. Ссылка на репозиторий проект с Node.js
+1. [Ссылка на репозиторий проект с Node.js](https://github.com/ZlayaZayaZ/using_a_package_in_node.js)
 1. Ссылка на JSBin
 
 ### Дополнительно
